@@ -1,0 +1,12 @@
+# Lộ trình E104A-H2-HVHC
+- [x] Tạo dự án độc lập, không sao chép repository E104A-H2
+- [x] Khởi tạo React + Vite
+- [x] Giao diện responsive cho desktop và mobile
+- [x] PWA manifest và service worker cơ bản
+- [ ] Hoàn thiện ngân hàng câu hỏi và quản lý môn
+- [ ] Luyện tập từng câu, giải thích đáp án
+- [ ] Thi thử ngẫu nhiên, thời gian và nộp bài
+- [ ] Chấm điểm, lưu lịch sử, thống kê
+- [ ] Import Word và nhận diện định dạng đáp án
+- [ ] Backend, tài khoản và đồng bộ
+- [ ] Đóng gói Windows và Android
