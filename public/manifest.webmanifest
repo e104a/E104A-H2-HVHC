@@ -1,0 +1,11 @@
+{
+  "name": "E104A-H2-HVHC - Ôn tập trắc nghiệm",
+  "short_name": "E104A-HVHC",
+  "description": "Ứng dụng ôn tập và thi trắc nghiệm Hậu cần - Kỹ thuật.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f6fb",
+  "theme_color": "#0b203a",
+  "icons": []
+}
